@@ -1,8 +1,8 @@
-- 👋 Hi, I’m StillSlow
-- 👀 I’m interested in ts and Tailwind
-- 🌱 I’m currently learning js/ts
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me: stillslow@serversify.net
+- 👋 Hi, I’m SlowOnARocket
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python and its client server features
+- 📫 How to reach me:
+- Gmail: slowonarocket@gmail.com
 
 <!---
 oxiox24/oxiox24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

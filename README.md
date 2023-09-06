@@ -1,10 +1,15 @@
-- 👋 Hi, I’m SlowOnARocket
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python and its client server features
-- 📫 How to reach me:
-- Gmail: slowonarocket@gmail.com
+# Whoami
+```
+user = "StillSlow"
+language = "Python"
+management_position = "CFO @ TalkBuddy"
+origin = "Morroco"
 
-<!---
-oxiox24/oxiox24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+def Whoami(usr, lang, pos, org):
+  print(f'Hello I am {usr} my main coding launguage is {lang} I am currently {pos} and my origin is from {org}')
+
+Whoami(user, language, management_position, origin)
+```
+``` python Whoami.py
+Hello I am StillSlow my main coding language is Python I am currently CFO @ TalkBuddy and my origin is from Morroco
+```

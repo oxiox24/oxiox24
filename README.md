@@ -1,5 +1,5 @@
 # Whoami
-```
+```python
 user = "StillSlow"
 language = "Python"
 management_position = "CFO @ TalkBuddy"
@@ -10,6 +10,6 @@ def Whoami(usr, lang, pos, org):
 
 Whoami(user, language, management_position, origin)
 ```
-``` python Whoami.py
+``` $ - python Whoami.py
 Hello I am StillSlow my main coding language is Python I am currently CFO @ TalkBuddy and my origin is from Morroco
 ```
